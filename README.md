@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # Machine Learning
 
 Trey Research is looking to provide the next generation experience for connected car manufacturers by enabling them to utilize AI to decide when to pro-actively reach out to the customer through alerts delivered directly to the car's in-dash information and entertainment head unit. For their proof-of-concept (PoC), they would like to focus on two maintenance related scenarios.
@@ -6,7 +8,7 @@ In the first scenario, Trey Research recently instituted new regulations definin
 
 In the second scenario, Trey Research would like to predict the likelihood of battery failure based on the telemetry stream of time series data that the car provides about how the battery performs when the car is started, how it is charging while running and how well it is holding its charge, among other factors. If they detect a battery failure is imminent within the next 30 days, they would like to send an alert.
 
-November 2019
+March 2020
 
 ## Target audience
 
